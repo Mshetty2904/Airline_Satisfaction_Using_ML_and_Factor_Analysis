@@ -1,0 +1,17 @@
+Logistic Regression achieved 87.17% Accuracy, indicating strong prediction performance.
+
+The model obtained an AUC of 0.9255, demonstrating excellent classification capability.
+
+Customer Loyalty, Online Boarding, Cleanliness, and Inflight Services were the strongest positive contributors to passenger satisfaction.
+
+Personal Travel and Economy Class passengers were more likely to be dissatisfied.
+
+The KMO score of 0.77 and significant Bartlett's Test confirmed the suitability of Factor Analysis.
+
+Factor Analysis identified four key service dimensions: Cabin Experience, Digital Experience, Operational Service Quality, and Airport Convenience.
+
+These factors explained approximately 60.2% of the total variance in service quality ratings.
+
+Higher Online Boarding ratings were strongly associated with satisfied passengers.
+
+Overall, service quality and customer loyalty emerged as the primary drivers of airline passenger satisfaction.
